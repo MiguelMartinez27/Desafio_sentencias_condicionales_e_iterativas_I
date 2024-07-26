@@ -1,0 +1,15 @@
+Inicio
+Importar librerÃa random
+Pedir input al jugador
+Mostrar input
+Elementos del juego
+Selector al azar de elementos del juego
+
+verificar si el input es un elemento del juego
+    Mostrar elemento elegido por el computador
+mensaje de error si el input no corresponde a un elemento
+
+condiciones de empate, victoria y derrota
+    Mensaje correspondiente al resultado
+
+Fin
