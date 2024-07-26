@@ -1,0 +1,24 @@
+Inicio
+
+Verificar que el input es una variable de tipo float
+Ingresar peso
+    Asignar variable transitoria
+    Verificar que es mayor a cero
+    Asignar variable para fórmula
+        Mensaje de error
+
+Ingresar altura
+    Asignar variable transitoria
+    Verificar que es mayor a cero
+    Convertir de cm a metros
+    Asignar variable para fórmula
+        Mensaje de error
+
+Fórmula y condiciones para clasificar imc
+    Formula
+    Redondeo a dos decimales
+    Mostrar imc
+    Condiciones para clasificar imc
+    Mostrar clasificacion
+
+Fin
